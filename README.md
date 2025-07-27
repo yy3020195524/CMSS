@@ -1,4 +1,4 @@
-# CMSS
+# CMSS: Cross-Modality Information Fusion with Semantic and Structural Consistency for Semi-Supervised Multimodal Medical Image Segmentation
 ## Getting Started
 
 #### Installation
