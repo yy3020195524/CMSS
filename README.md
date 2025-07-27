@@ -23,7 +23,6 @@
    ```
 
 ## Datasets
->Note: You can download our datasets as follows, please download our pre-processing dataset of AMOS from [here](https://pan.quark.cn/s/c28cfc69b223) and put them into the folder 'dataset/dataset_amos/':
 ### 1. MS-CMRSeg 2019 dataset: [here](https://zmiclab.github.io/zxh/0/mscmrseg19/data.html)
 ### 2. AMOS Dataset: [here](https://zenodo.org/records/7262581)
 
